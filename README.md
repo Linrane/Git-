@@ -3,3 +3,5 @@
 【尚硅谷】Git与GitHub基础全套完整版教程（快速上手，一套搞定）： https://www.bilibili.com/video/BV1pW411A7a5/?share_source=copy_web&vd_source=b12fa710da5d72f21a6554549ec5d0e9
 
 这套课程我认为很不错，很适合入门到进阶的学习，推荐！
+
+可以只看这一部分main中的内容，因为其他是我跟着教程演示的操作，没什么用，其他的需要你们看教程或者笔记自己去试一试！
